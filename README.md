@@ -425,6 +425,8 @@
 
 [使用eclipse构建Maven项目及发布一个Maven项目 - codingcloud - 博客园](https://www.cnblogs.com/codingcloud/p/5010314.html)
 
+[maven中的module及聚合项目](https://www.jianshu.com/p/8541dbb961fc)
+
 ## Eclipse
 
 [如何在Eclipse中查看查看源代码及文档(JavaDoc)? - 简书](http://www.jianshu.com/p/7bc611f73850)
@@ -645,7 +647,7 @@
 
 [shell脚本中执行时提示“没有那个文件或目录”的解决办法\_linux shell\_脚本之家](http://www.jb51.net/article/48784.htm)
 
-[bash常用快捷键及命令用法](https://github.com/skywind3000/awesome-cheatsheets/blob/master/languages/bash.sh)
+[bash cheatsheets](https://github.com/skywind3000/awesome-cheatsheets/blob/master/languages/bash.sh)
 
 [linux后台执行命令：&和nohup - CSDN博客](https://blog.csdn.net/liuyanfeier/article/details/62422742)
 
