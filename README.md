@@ -399,7 +399,7 @@
 
 [正则表达式工具](https://regex101.com/)
 
-[最全的常用正则表达式大全——包括校验数字、字符、一些特殊的需求等等\_Web开发\_酷勤网](http://www.kuqin.com/shuoit/20151215/349463.html)
+[史上最全常用正则表达式大全](https://www.cnblogs.com/fozero/p/7868687.html)
 
 [正则表达式 学习笔记 \- 请叫我程先生 \- 知乎专栏](https://zhuanlan.zhihu.com/p/20750255?from=timeline&isappinstalled=1)
 
