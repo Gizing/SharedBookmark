@@ -231,6 +231,8 @@
 
 [JAVA 异常分类与理解 - itcui - 博客园](https://www.cnblogs.com/itcui/p/6400499.html)
 
+[Launch4j将jar打包成exe](https://blog.csdn.net/chen_zw/article/details/48792367)
+
 ## Netty
 
 [Netty4.x中文教程系列(二) Hello World ! - Tiny&zzh - 博客园](http://www.cnblogs.com/zou90512/p/3492878.html)
@@ -437,7 +439,9 @@
 
 [java使用POI操作excel文件,实现批量导出,和导入 - 暗影游侠 - 博客园](https://www.cnblogs.com/zhuixun/p/6600331.html)
 
-[Apache POI - the Java API for Microsoft Documents](https://poi.apache.org/)
+[Apache POI - the Java API for Microsoft Documents](https://poi.apache.org/)（POI不可操作CSV文件）
+
+[Apache Commons CSV官网使用指南](<http://commons.apache.org/proper/commons-csv/user-guide.html>)
 
 ## Spring
 
