@@ -733,6 +733,8 @@
 
 [有没有简单一点的Python小例子小项目？ - 知乎](https://www.zhihu.com/question/51920544)
 
+[Python模块大全](<https://blog.csdn.net/hanzihan123/article/details/41898643>)
+
 ## 语法基础
 
 [Python 运算符 | 菜鸟教程](http://www.runoob.com/python/python-operators.html)
