@@ -605,6 +605,8 @@
 
 [C中sizeof()的用法——32位和64位下的sizeof（） - sara的小窝 - 博客园](https://www.cnblogs.com/sara-gcj/p/3324187.html)
 
+[Visual Studio Code 如何编写运行 C、C++ 程序](https://www.zhihu.com/question/30315894)
+
 # Linux
 
 [用户态和核心态的区别 \- 静悟生慧 \- 博客园](https://www.cnblogs.com/Allen-rg/p/7171105.html)
